@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ogawa3427
+### 小川/Ogawa3427
+- A twitterer.
+- A first greader, initial(1st generation) student  
+  the collage of smart sci.&tech for innovation
+  at Kanazawa Unuv. in Japan.
 - 👀 I’m interested in shell programing & usage of LLMs.
-- 🌱 I’m currently learning Python to expand not only my skills also human abilities
+- 🌱 I’m currently learning Next.js to expand not only my skills also human abilities
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me plz go the link.
 
