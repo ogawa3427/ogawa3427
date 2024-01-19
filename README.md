@@ -8,6 +8,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me plz go the link.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa3427&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ogawa3427/github-readme-stats)
+
 <!---
 ogawa3427/ogawa3427 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
