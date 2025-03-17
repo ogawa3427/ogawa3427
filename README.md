@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 To reach me plz go the link.
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,arduino,nextjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,arduino,nextjs,vscode,ts&perline=5)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogawa3427&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/ogawa3427/github-readme-stats)
 
